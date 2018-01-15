@@ -1,3 +1,7 @@
+# author :
+# Hisyam Kamil
+# 15-01-2018
+
 import utime
 import machine
 pin15 = machine.Pin(15, machine.Pin.OUT)
